@@ -1,0 +1,67 @@
+{
+  "baseUrl": "https://epigenome.wustl.edu/smaht",
+  "metadata": {
+    "file": "m_output.tsv",
+    "delimiter": "\t",
+    "columns": {
+      "donor": 0,
+      "category": 1,
+      "tissueSummary": 2
+    },
+    "tissuePattern": "^([^-]+?)\\s*-\\s*(.+)$"
+  },
+  "assays": [
+    {
+      "assay": "RNA-seq",
+      "file": "RNA-seq_track_files.txt",
+      "folder": "rna-seq",
+      "browserTrackType": "bigwig",
+      "matchPattern": "^(SMHT\\d+)[-_]([A-Z0-9]+)[-_]([A-Z0-9]+)\\.(LIB[^.]+)\\..*Signal\\.(UniqueMultiple|Unique)\\.",
+      "groups": {
+        "donor": 1,
+        "tissueId": 2,
+        "sampleId": 3,
+        "library": 4,
+        "dataType": 5
+      },
+      "defaults": {
+        "site": "WashU"
+      }
+    },
+    {
+      "assay": "PacBio",
+      "file": "PacBio_track_files.txt",
+      "folder": "pacbio",
+      "browserTrackType": "bigwig",
+      "matchPattern": "^(SMHT\\d+)_([A-Z0-9]+)_([a-z]+)_PacBio\\.combined\\.bw$",
+      "groups": {
+        "donor": 1,
+        "tissueId": 2,
+        "site": 3
+      },
+      "siteMap": {
+        "washu": "WashU",
+        "broad": "Broad",
+        "uwsc": "UWSC"
+      }
+    }
+  ],
+  "browser": {
+    "genomeName": "hg38",
+    "viewRegion": "chr7:27053397-27373765",
+    "showGenomeNavigator": true,
+    "showNavBar": true,
+    "showToolBar": true,
+    "darkMode": false,
+    "tracks": [
+      {
+        "type": "ruler",
+        "name": "Ruler"
+      },
+      {
+        "type": "geneannotation",
+        "name": "gencodeV47"
+      }
+    ]
+  }
+}

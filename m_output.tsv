@@ -1,0 +1,423 @@
+SMHT005	Ectoderm	3AD - Skin, Calf
+SMHT005	Ectoderm	3AM - Brain, Cerebellum
+SMHT005	Ectoderm	3AK - Brain, Frontal Lobe
+SMHT005	Ectoderm	3AL - Brain, Temporal Lobe
+SMHT005	Ectoderm	3AN - Brain, Hippocampus, L
+SMHT005	Ectoderm	3AF - Skin, Abdomen
+SMHT005	Ectoderm	3AO - Brain, Hippocampus, R
+SMHT005	Endoderm	3C - Esophagus
+SMHT005	Endoderm	3Q - Lung
+SMHT005	Endoderm	3E - Colon, Asc
+SMHT005	Endoderm	3I - Liver
+SMHT005	Endoderm	3G - Colon, Desc
+SMHT005	Mesoderm	3AH - Muscle
+SMHT005	Mesoderm	3O - Aorta
+SMHT005	Mesoderm	3M - Adrenal Gland, R
+SMHT005	Mesoderm	3S - Heart
+SMHT005	Mesoderm	3AC - Fibroblast
+SMHT005	Germ Cells	3U - Testis, L
+SMHT005	Clinically Accessible	3A - Whole Blood
+SMHT005	Clinically Accessible	3B - Buccal Swab
+SMHT001	Ectoderm	3AM - Brain, Cerebellum
+SMHT001	Ectoderm	3AK - Brain, Frontal Lobe
+SMHT001	Ectoderm	3AD - Skin, Calf
+SMHT001	Ectoderm	3AF - Skin, Abdomen
+SMHT001	Ectoderm	3AL - Brain, Temporal Lobe
+SMHT001	Ectoderm	3AN - Brain, Hippocampus, L
+SMHT001	Ectoderm	3AO - Brain, Hippocampus, R
+SMHT001	Endoderm	3Q - Lung
+SMHT001	Endoderm	3E - Colon, Asc
+SMHT001	Endoderm	3C - Esophagus
+SMHT001	Endoderm	3I - Liver
+SMHT001	Endoderm	3G - Colon, Desc
+SMHT001	Mesoderm	3S - Heart
+SMHT001	Mesoderm	3AH - Muscle
+SMHT001	Mesoderm	3O - Aorta
+SMHT001	Mesoderm	3M - Adrenal Gland, R
+SMHT001	Mesoderm	3AC - Fibroblast
+SMHT001	Germ Cells	3U - Testis, L
+SMHT001	Clinically Accessible	3A - Whole Blood
+SMHT001	Clinically Accessible	3B - Buccal Swab
+SMHT023	Ectoderm	3AM - Brain, Cerebellum
+SMHT023	Ectoderm	3AK - Brain, Frontal Lobe
+SMHT023	Ectoderm	3AF - Skin, Abdomen
+SMHT023	Ectoderm	3AL - Brain, Temporal Lobe
+SMHT023	Ectoderm	3AD - Skin, Calf
+SMHT023	Ectoderm	3AN - Brain, Hippocampus, L
+SMHT023	Ectoderm	3AO - Brain, Hippocampus, R
+SMHT023	Endoderm	3E - Colon, Asc
+SMHT023	Endoderm	3C - Esophagus
+SMHT023	Endoderm	3G - Colon, Desc
+SMHT023	Endoderm	3I - Liver
+SMHT023	Endoderm	3Q - Lung
+SMHT023	Mesoderm	3K - Adrenal Gland, L
+SMHT023	Mesoderm	3AH - Muscle
+SMHT023	Mesoderm	3AC - Fibroblast
+SMHT023	Mesoderm	3O - Aorta
+SMHT023	Germ Cells	3U - Testis, L
+SMHT023	Clinically Accessible	3A - Whole Blood
+SMHT023	Clinically Accessible	3B - Buccal Swab
+SMHT020	Endoderm	3C - Esophagus
+SMHT020	Endoderm	3E - Colon, Asc
+SMHT020	Endoderm	3I - Liver
+SMHT020	Endoderm	3G - Colon, Desc
+SMHT020	Endoderm	3Q - Lung
+SMHT020	Ectoderm	3AM - Brain, Cerebellum
+SMHT020	Ectoderm	3AL - Brain, Temporal Lobe
+SMHT020	Ectoderm	3AO - Brain, Hippocampus, R
+SMHT020	Ectoderm	3AF - Skin, Abdomen
+SMHT020	Ectoderm	3AD - Skin, Calf
+SMHT020	Ectoderm	3AK - Brain, Frontal Lobe
+SMHT020	Ectoderm	3AN - Brain, Hippocampus, L
+SMHT020	Mesoderm	3S - Heart
+SMHT020	Mesoderm	3AH - Muscle
+SMHT020	Mesoderm	3K - Adrenal Gland, L
+SMHT020	Mesoderm	3O - Aorta
+SMHT020	Mesoderm	3AC - Fibroblast
+SMHT020	Germ Cells	3U - Testis, L
+SMHT020	Clinically Accessible	3A - Whole Blood
+SMHT024	Ectoderm	3AK - Brain, Frontal Lobe
+SMHT024	Ectoderm	3AL - Brain, Temporal Lobe
+SMHT024	Ectoderm	3AM - Brain, Cerebellum
+SMHT024	Ectoderm	3AN - Brain, Hippocampus, L
+SMHT024	Ectoderm	3AD - Skin, Calf
+SMHT024	Ectoderm	3AF - Skin, Abdomen
+SMHT024	Ectoderm	3AO - Brain, Hippocampus, R
+SMHT024	Endoderm	3Q - Lung
+SMHT024	Endoderm	3G - Colon, Desc
+SMHT024	Endoderm	3E - Colon, Asc
+SMHT024	Endoderm	3I - Liver
+SMHT024	Endoderm	3C - Esophagus
+SMHT024	Mesoderm	3S - Heart
+SMHT024	Mesoderm	3K - Adrenal Gland, L
+SMHT024	Mesoderm	3AH - Muscle
+SMHT024	Mesoderm	3AC - Fibroblast
+SMHT024	Germ Cells	3U - Testis, L
+SMHT024	Clinically Accessible	3A - Whole Blood
+SMHT024	Clinically Accessible	3B - Buccal Swab
+SMHT018	Ectoderm	3AM - Brain, Cerebellum
+SMHT018	Ectoderm	3AD - Skin, Calf
+SMHT018	Ectoderm	3AK - Brain, Frontal Lobe
+SMHT018	Ectoderm	3AL - Brain, Temporal Lobe
+SMHT018	Ectoderm	3AF - Skin, Abdomen
+SMHT018	Ectoderm	3AN - Brain, Hippocampus, L
+SMHT018	Ectoderm	3AO - Brain, Hippocampus, R
+SMHT018	Endoderm	3C - Esophagus
+SMHT018	Endoderm	3I - Liver
+SMHT018	Endoderm	3G - Colon, Desc
+SMHT018	Endoderm	3Q - Lung
+SMHT018	Endoderm	3E - Colon, Asc
+SMHT018	Mesoderm	3AH - Muscle
+SMHT018	Mesoderm	3S - Heart
+SMHT018	Mesoderm	3K - Adrenal Gland, L
+SMHT018	Mesoderm	3O - Aorta
+SMHT018	Mesoderm	3AC - Fibroblast
+SMHT018	Clinically Accessible	3A - Whole Blood
+SMHT018	Clinically Accessible	3B - Buccal Swab
+SMHT040	Ectoderm	3AL - Brain, Temporal Lobe
+SMHT040	Ectoderm	3AM - Brain, Cerebellum
+SMHT040	Ectoderm	3AK - Brain, Frontal Lobe
+SMHT040	Ectoderm	3AF - Skin, Abdomen
+SMHT040	Ectoderm	3AD - Skin, Calf
+SMHT040	Ectoderm	3AN - Brain, Hippocampus, L
+SMHT040	Ectoderm	3AO - Brain, Hippocampus, R
+SMHT040	Endoderm	3E - Colon, Asc
+SMHT040	Endoderm	3Q - Lung
+SMHT040	Endoderm	3I - Liver
+SMHT040	Endoderm	3C - Esophagus
+SMHT040	Endoderm	3G - Colon, Desc
+SMHT040	Mesoderm	3S - Heart
+SMHT040	Mesoderm	3K - Adrenal Gland, L
+SMHT040	Mesoderm	3AH - Muscle
+SMHT040	Mesoderm	3O - Aorta
+SMHT040	Mesoderm	3AC - Fibroblast
+SMHT040	Germ Cells	3Y - Ovary, L
+SMHT040	Clinically Accessible	3A - Whole Blood
+SMHT040	Clinically Accessible	3B - Buccal Swab
+SMHT004	Endoderm	3Q - Lung
+SMHT004	Endoderm	3C - Esophagus
+SMHT004	Endoderm	3G - Colon, Desc
+SMHT004	Endoderm	3I - Liver
+SMHT004	Endoderm	3E - Colon, Asc
+SMHT004	Mesoderm	3AH - Muscle
+SMHT004	Mesoderm	3S - Heart
+SMHT004	Mesoderm	3O - Aorta
+SMHT004	Mesoderm	3AC - Fibroblast
+SMHT004	Ectoderm	3AD - Skin, Calf
+SMHT004	Ectoderm	3AF - Skin, Abdomen
+SMHT004	Clinically Accessible	3A - Whole Blood
+SMHT004	Clinically Accessible	3B - Buccal Swab
+SMHT004	Germ Cells	3U - Testis, L
+SMHT022	Ectoderm	3AL - Brain, Temporal Lobe
+SMHT022	Ectoderm	3AK - Brain, Frontal Lobe
+SMHT022	Ectoderm	3AM - Brain, Cerebellum
+SMHT022	Ectoderm	3AD - Skin, Calf
+SMHT022	Ectoderm	3AF - Skin, Abdomen
+SMHT022	Ectoderm	3AN - Brain, Hippocampus, L
+SMHT022	Ectoderm	3AO - Brain, Hippocampus, R
+SMHT022	Endoderm	3C - Esophagus
+SMHT022	Endoderm	3I - Liver
+SMHT022	Endoderm	3Q - Lung
+SMHT022	Endoderm	3G - Colon, Desc
+SMHT022	Endoderm	3E - Colon, Asc
+SMHT022	Mesoderm	3K - Adrenal Gland, L
+SMHT022	Mesoderm	3AH - Muscle
+SMHT022	Mesoderm	3S - Heart
+SMHT022	Mesoderm	3O - Aorta
+SMHT022	Germ Cells	3U - Testis, L
+SMHT022	Clinically Accessible	3A - Whole Blood
+SMHT027	Ectoderm	3AD - Skin, Calf
+SMHT027	Ectoderm	3AF - Skin, Abdomen
+SMHT027	Ectoderm	3AM - Brain, Cerebellum
+SMHT027	Ectoderm	3AL - Brain, Temporal Lobe
+SMHT027	Ectoderm	3AK - Brain, Frontal Lobe
+SMHT027	Ectoderm	3AN - Brain, Hippocampus, L
+SMHT027	Ectoderm	3AO - Brain, Hippocampus, R
+SMHT027	Endoderm	3I - Liver
+SMHT027	Endoderm	3Q - Lung
+SMHT027	Endoderm	3E - Colon, Asc
+SMHT027	Endoderm	3G - Colon, Desc
+SMHT027	Endoderm	3C - Esophagus
+SMHT027	Mesoderm	3AH - Muscle
+SMHT027	Mesoderm	3K - Adrenal Gland, L
+SMHT027	Mesoderm	3S - Heart
+SMHT027	Mesoderm	3O - Aorta
+SMHT027	Clinically Accessible	3A - Whole Blood
+SMHT008	Ectoderm	3AK - Brain, Frontal Lobe
+SMHT008	Ectoderm	3AD - Skin, Calf
+SMHT008	Ectoderm	3AF - Skin, Abdomen
+SMHT008	Ectoderm	3AL - Brain, Temporal Lobe
+SMHT008	Ectoderm	3AM - Brain, Cerebellum
+SMHT008	Ectoderm	3AN - Brain, Hippocampus, L
+SMHT008	Ectoderm	3AO - Brain, Hippocampus, R
+SMHT008	Endoderm	3I - Liver
+SMHT008	Endoderm	3C - Esophagus
+SMHT008	Endoderm	3E - Colon, Asc
+SMHT008	Endoderm	3G - Colon, Desc
+SMHT008	Mesoderm	3S - Heart
+SMHT008	Mesoderm	3AH - Muscle
+SMHT008	Mesoderm	3M - Adrenal Gland, R
+SMHT008	Clinically Accessible	3A - Whole Blood
+SMHT007	Ectoderm	3AK - Brain, Frontal Lobe
+SMHT007	Ectoderm	3AL - Brain, Temporal Lobe
+SMHT007	Ectoderm	3AM - Brain, Cerebellum
+SMHT007	Ectoderm	3AF - Skin, Abdomen
+SMHT007	Ectoderm	3AD - Skin, Calf
+SMHT007	Ectoderm	3AO - Brain, Hippocampus, R
+SMHT007	Ectoderm	3AN - Brain, Hippocampus, L
+SMHT007	Endoderm	3C - Esophagus
+SMHT007	Endoderm	3E - Colon, Asc
+SMHT007	Endoderm	3Q - Lung
+SMHT007	Endoderm	3I - Liver
+SMHT007	Endoderm	3G - Colon, Desc
+SMHT007	Mesoderm	3S - Heart
+SMHT007	Mesoderm	3AH - Muscle
+SMHT007	Mesoderm	3O - Aorta
+SMHT007	Germ Cells	3U - Testis, L
+SMHT007	Clinically Accessible	3A - Whole Blood
+SMHT009	Endoderm	3G - Colon, Desc
+SMHT009	Endoderm	3C - Esophagus
+SMHT009	Endoderm	3Q - Lung
+SMHT009	Endoderm	3E - Colon, Asc
+SMHT009	Endoderm	3I - Liver
+SMHT009	Mesoderm	3AH - Muscle
+SMHT009	Mesoderm	3O - Aorta
+SMHT009	Mesoderm	3S - Heart
+SMHT009	Ectoderm	3AF - Skin, Abdomen
+SMHT009	Ectoderm	3AD - Skin, Calf
+SMHT009	Clinically Accessible	3A - Whole Blood
+SMHT017	Endoderm	3G - Colon, Desc
+SMHT017	Endoderm	3Q - Lung
+SMHT017	Endoderm	3C - Esophagus
+SMHT017	Endoderm	3E - Colon, Asc
+SMHT017	Endoderm	3I - Liver
+SMHT017	Mesoderm	3S - Heart
+SMHT017	Mesoderm	3AH - Muscle
+SMHT017	Mesoderm	3O - Aorta
+SMHT017	Mesoderm	3K - Adrenal Gland, L
+SMHT017	Mesoderm	3AC - Fibroblast
+SMHT017	Ectoderm	3AF - Skin, Abdomen
+SMHT017	Ectoderm	3AD - Skin, Calf
+SMHT017	Germ Cells	3Y - Ovary, L
+SMHT017	Clinically Accessible	3A - Whole Blood
+SMHT017	Clinically Accessible	3B - Buccal Swab
+SMHT031	Ectoderm	3AL - Brain, Temporal Lobe
+SMHT031	Ectoderm	3AM - Brain, Cerebellum
+SMHT031	Ectoderm	3AK - Brain, Frontal Lobe
+SMHT031	Ectoderm	3AN - Brain, Hippocampus, L
+SMHT031	Ectoderm	3AD - Skin, Calf
+SMHT031	Ectoderm	3AF - Skin, Abdomen
+SMHT031	Ectoderm	3AO - Brain, Hippocampus, R
+SMHT031	Endoderm	3C - Esophagus
+SMHT031	Endoderm	3E - Colon, Asc
+SMHT031	Endoderm	3G - Colon, Desc
+SMHT031	Endoderm	3Q - Lung
+SMHT031	Endoderm	3I - Liver
+SMHT031	Mesoderm	3AH - Muscle
+SMHT031	Mesoderm	3S - Heart
+SMHT031	Mesoderm	3O - Aorta
+SMHT031	Mesoderm	3K - Adrenal Gland, L
+SMHT031	Clinically Accessible	3A - Whole Blood
+SMHT031	Germ Cells	3U - Testis, L
+SMHT039	Ectoderm	3AK - Brain, Frontal Lobe
+SMHT039	Ectoderm	3AM - Brain, Cerebellum
+SMHT039	Ectoderm	3AO - Brain, Hippocampus, R
+SMHT039	Ectoderm	3AF - Skin, Abdomen
+SMHT039	Ectoderm	3AD - Skin, Calf
+SMHT039	Ectoderm	3AN - Brain, Hippocampus, L
+SMHT039	Ectoderm	3AL - Brain, Temporal Lobe
+SMHT039	Endoderm	3I - Liver
+SMHT039	Endoderm	3Q - Lung
+SMHT039	Endoderm	3E - Colon, Asc
+SMHT039	Endoderm	3G - Colon, Desc
+SMHT039	Mesoderm	3AH - Muscle
+SMHT039	Mesoderm	3S - Heart
+SMHT039	Mesoderm	3K - Adrenal Gland, L
+SMHT039	Mesoderm	3O - Aorta
+SMHT039	Germ Cells	3U - Testis, L
+SMHT039	Clinically Accessible	3A - Whole Blood
+SMHT006	Endoderm	3C - Esophagus
+SMHT006	Endoderm	3E - Colon, Asc
+SMHT006	Endoderm	3I - Liver
+SMHT006	Endoderm	3Q - Lung
+SMHT006	Endoderm	3G - Colon, Desc
+SMHT006	Mesoderm	3AH - Muscle
+SMHT006	Mesoderm	3S - Heart
+SMHT006	Mesoderm	3K - Adrenal Gland, L
+SMHT006	Mesoderm	3O - Aorta
+SMHT006	Ectoderm	3AF - Skin, Abdomen
+SMHT006	Ectoderm	3AD - Skin, Calf
+SMHT006	Clinically Accessible	3A - Whole Blood
+SMHT006	Germ Cells	3U - Testis, L
+SMHT043	Ectoderm	3AK - Brain, Frontal Lobe
+SMHT043	Ectoderm	3AL - Brain, Temporal Lobe
+SMHT043	Ectoderm	3AM - Brain, Cerebellum
+SMHT043	Ectoderm	3AN - Brain, Hippocampus, L
+SMHT043	Ectoderm	3AD - Skin, Calf
+SMHT043	Ectoderm	3AF - Skin, Abdomen
+SMHT043	Endoderm	3E - Colon, Asc
+SMHT043	Endoderm	3Q - Lung
+SMHT043	Endoderm	3C - Esophagus
+SMHT043	Endoderm	3G - Colon, Desc
+SMHT043	Endoderm	3I - Liver
+SMHT043	Mesoderm	3AH - Muscle
+SMHT043	Mesoderm	3O - Aorta
+SMHT043	Mesoderm	3K - Adrenal Gland, L
+SMHT043	Mesoderm	3AC - Fibroblast
+SMHT043	Germ Cells	3U - Testis, L
+SMHT043	Clinically Accessible	3A - Whole Blood
+SMHT043	Clinically Accessible	3B - Buccal Swab
+SMHT029	Endoderm	3Q - Lung
+SMHT029	Endoderm	3G - Colon, Desc
+SMHT029	Endoderm	3C - Esophagus
+SMHT029	Endoderm	3I - Liver
+SMHT029	Endoderm	3E - Colon, Asc
+SMHT029	Ectoderm	3AF - Skin, Abdomen
+SMHT029	Ectoderm	3AL - Brain, Temporal Lobe
+SMHT029	Ectoderm	3AK - Brain, Frontal Lobe
+SMHT029	Ectoderm	3AM - Brain, Cerebellum
+SMHT029	Ectoderm	3AO - Brain, Hippocampus, R
+SMHT029	Ectoderm	3AD - Skin, Calf
+SMHT029	Ectoderm	3AN - Brain, Hippocampus, L
+SMHT029	Mesoderm	3AH - Muscle
+SMHT029	Mesoderm	3S - Heart
+SMHT029	Mesoderm	3O - Aorta
+SMHT029	Germ Cells	3U - Testis, L
+SMHT029	Clinically Accessible	3A - Whole Blood
+SMHT016	Endoderm	3C - Esophagus
+SMHT016	Endoderm	3E - Colon, Asc
+SMHT016	Endoderm	3G - Colon, Desc
+SMHT016	Endoderm	3I - Liver
+SMHT016	Endoderm	3Q - Lung
+SMHT016	Mesoderm	3AH - Muscle
+SMHT016	Mesoderm	3S - Heart
+SMHT016	Mesoderm	3K - Adrenal Gland, L
+SMHT016	Mesoderm	3O - Aorta
+SMHT016	Ectoderm	3AD - Skin, Calf
+SMHT016	Ectoderm	3AF - Skin, Abdomen
+SMHT016	Clinically Accessible	3A - Whole Blood
+SMHT028	Endoderm	3Q - Lung
+SMHT028	Endoderm	3C - Esophagus
+SMHT028	Endoderm	3E - Colon, Asc
+SMHT028	Endoderm	3G - Colon, Desc
+SMHT028	Endoderm	3I - Liver
+SMHT028	Mesoderm	3AH - Muscle
+SMHT028	Mesoderm	3S - Heart
+SMHT028	Mesoderm	3O - Aorta
+SMHT028	Ectoderm	3AF - Skin, Abdomen
+SMHT028	Ectoderm	3AD - Skin, Calf
+SMHT028	Clinically Accessible	3A - Whole Blood
+SMHT028	Germ Cells	3U - Testis, L
+SMHT035	Endoderm	3C - Esophagus
+SMHT035	Endoderm	3G - Colon, Desc
+SMHT035	Endoderm	3Q - Lung
+SMHT035	Endoderm	3E - Colon, Asc
+SMHT035	Endoderm	3I - Liver
+SMHT035	Mesoderm	3K - Adrenal Gland, L
+SMHT035	Mesoderm	3S - Heart
+SMHT035	Mesoderm	3O - Aorta
+SMHT035	Germ Cells	3Y - Ovary, L
+SMHT035	Ectoderm	3AD - Skin, Calf
+SMHT035	Ectoderm	3AF - Skin, Abdomen
+SMHT035	Clinically Accessible	3A - Whole Blood
+SMHT012	Mesoderm	3AH - Muscle
+SMHT012	Mesoderm	3S - Heart
+SMHT012	Mesoderm	3K - Adrenal Gland, L
+SMHT012	Mesoderm	3AC - Fibroblast
+SMHT012	Mesoderm	3O - Aorta
+SMHT012	Endoderm	3Q - Lung
+SMHT012	Endoderm	3C - Esophagus
+SMHT012	Endoderm	3E - Colon, Asc
+SMHT012	Endoderm	3I - Liver
+SMHT012	Ectoderm	3AF - Skin, Abdomen
+SMHT012	Ectoderm	3AD - Skin, Calf
+SMHT012	Clinically Accessible	3A - Whole Blood
+SMHT012	Germ Cells	3U - Testis, L
+SMHT042	Endoderm	3C - Esophagus
+SMHT042	Endoderm	3Q - Lung
+SMHT042	Endoderm	3G - Colon, Desc
+SMHT042	Endoderm	3E - Colon, Asc
+SMHT042	Endoderm	3I - Liver
+SMHT042	Mesoderm	3S - Heart
+SMHT042	Mesoderm	3K - Adrenal Gland, L
+SMHT042	Mesoderm	3O - Aorta
+SMHT042	Ectoderm	3AD - Skin, Calf
+SMHT042	Ectoderm	3AF - Skin, Abdomen
+SMHT042	Germ Cells	3U - Testis, L
+SMHT042	Clinically Accessible	3A - Whole Blood
+SMHT015	Endoderm	3C - Esophagus
+SMHT015	Endoderm	3Q - Lung
+SMHT015	Endoderm	3E - Colon, Asc
+SMHT015	Endoderm	3G - Colon, Desc
+SMHT015	Endoderm	3I - Liver
+SMHT015	Ectoderm	3AF - Skin, Abdomen
+SMHT015	Ectoderm	3AD - Skin, Calf
+SMHT015	Mesoderm	3AH - Muscle
+SMHT015	Mesoderm	3O - Aorta
+SMHT015	Germ Cells	3Y - Ovary, L
+SMHT015	Clinically Accessible	3A - Whole Blood
+SMHT038	Ectoderm	3AF - Skin, Abdomen
+SMHT038	Ectoderm	3AK - Brain, Frontal Lobe
+SMHT038	Ectoderm	3AM - Brain, Cerebellum
+SMHT038	Ectoderm	3AL - Brain, Temporal Lobe
+SMHT038	Ectoderm	3AN - Brain, Hippocampus, L
+SMHT038	Endoderm	3C - Esophagus
+SMHT038	Endoderm	3Q - Lung
+SMHT038	Mesoderm	3S - Heart
+SMHT044	Ectoderm	3AK - Brain, Frontal Lobe
+SMHT044	Ectoderm	3AD - Skin, Calf
+SMHT044	Ectoderm	3AF - Skin, Abdomen
+SMHT044	Ectoderm	3AL - Brain, Temporal Lobe
+SMHT044	Ectoderm	3AM - Brain, Cerebellum
+SMHT044	Ectoderm	3AN - Brain, Hippocampus, L
+SMHT044	Endoderm	3C - Esophagus
+SMHT044	Endoderm	3E - Colon, Asc
+SMHT044	Endoderm	3G - Colon, Desc
+SMHT044	Endoderm	3I - Liver
+SMHT044	Mesoderm	3AH - Muscle
+SMHT044	Mesoderm	3O - Aorta
+SMHT044	Mesoderm	3S - Heart
+SMHT044	Germ Cells	3U - Testis, L
+SMHT037	Endoderm	3C - Esophagus
+SMHT037	Endoderm	3E - Colon, Asc
+SMHT037	Ectoderm	3AN - Brain, Hippocampus, L
