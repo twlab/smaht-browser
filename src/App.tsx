@@ -217,6 +217,7 @@ function App() {
 
   const filterOptions: FilterOptions = dataset?.filterOptions ?? emptyFilterOptions;
   const portalRecords = dataset?.portalRecords ?? [];
+  const siteLockdown = dataset?.config.siteLockdown;
   const filterSections = useMemo(
     () =>
       filterSectionDefinitions.map((section) => ({
@@ -301,6 +302,37 @@ function App() {
       tissueDetails,
     }));
   };
+
+  if (siteLockdown?.enabled) {
+    return (
+      <div className="lockdown-shell">
+        <div className="lockdown-card">
+          <img
+            alt="SMAHT Network logo"
+            className="smaht-logo lockdown-logo"
+            src={
+              theme === 'light'
+                ? 'https://smaht.org/images/logo.png'
+                : 'https://smaht.org/images/logo-w.png'
+            }
+          />
+          <button
+            className="secondary-button theme-button lockdown-theme-button"
+            onClick={() => setTheme((current) => (current === 'light' ? 'dark' : 'light'))}
+            aria-label={theme === 'light' ? 'Switch to dark theme' : 'Switch to light theme'}
+            title={theme === 'light' ? 'Switch to dark theme' : 'Switch to light theme'}
+            type="button"
+          >
+            <span aria-hidden="true" className="theme-icon">
+              {theme === 'light' ? '☀' : '☾'}
+            </span>
+          </button>
+          {siteLockdown.title ? <h1>{siteLockdown.title}</h1> : null}
+          <p>{siteLockdown.message ?? 'we are temporarily lock down the site to protect our donor’s information'}</p>
+        </div>
+      </div>
+    );
+  }
 
   const updateBrowserVisualization = () => {
     if (!dataset || visibleRecords.length === 0) {

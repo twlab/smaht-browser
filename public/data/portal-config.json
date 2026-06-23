@@ -1,5 +1,9 @@
 {
   "baseUrl": "https://epigenome.wustl.edu/smaht",
+  "siteLockdown": {
+    "enabled": true,
+    "message": "we are temporarily lock down the site to protect our donor’s information"
+  },
   "metadata": {
     "file": "m_output.tsv",
     "delimiter": "\t",

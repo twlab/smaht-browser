@@ -54,6 +54,11 @@ interface TrackSourceConfig {
 
 export interface PortalRuntimeConfig {
   baseUrl: string;
+  siteLockdown?: {
+    enabled?: boolean;
+    title?: string;
+    message?: string;
+  };
   metadata: MetadataConfig;
   assays: TrackSourceConfig[];
   browser?: {
@@ -301,6 +306,14 @@ export const loadPortalData = async (
   }
 
   const config = (await configResponse.json()) as PortalRuntimeConfig;
+  if (config.siteLockdown?.enabled) {
+    return {
+      portalRecords: [],
+      filterOptions: emptyFilterOptions,
+      config,
+    };
+  }
+
   const resolvedConfigUrl = new URL(configPath, window.location.href).toString();
   const [metadataContent, ...assayContents] = await Promise.all([
     fetchText(resolveUrl(config.metadata.file, resolvedConfigUrl)),
